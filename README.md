@@ -1,6 +1,7 @@
 # Travel Companion 
 
 This website helps you find the best of restaurants, hotels and tourist attractions in any city in the world. Compplete with ratings, reviews, website and address. It's an one stop destination for all your needs.
+
 ![image](https://user-images.githubusercontent.com/90003260/212548325-2571fbb8-fba5-497b-ba0b-25f46dd0c83d.png)
 
 # Getting Started with Create React App
